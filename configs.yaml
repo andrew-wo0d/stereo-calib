@@ -1,0 +1,15 @@
+%YAML:1.0
+---
+boardWidth: 6
+boardHeight: 9
+squareSize: 25.0
+picWidth: 960
+picHeight: 600
+leftCameraDir: "D:\\rectification\\imgs\\left"
+rightCameraDir: "D:\\rectification\\imgs\\right"
+saveDir: "D:\\rectification\\imgs\\result"
+calibParamsFile: "calibration_parameters.yaml"
+gridBaseSize: 29
+leftGrid: "grid_left.bin"
+rightGrid: "grid_right.bin"
+gridSizeFile: "grid_size.yaml"
